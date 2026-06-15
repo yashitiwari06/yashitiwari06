@@ -74,8 +74,8 @@ Building scalable web applications and continuously expanding my expertise in mo
 
 ## Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/yashitiwari06)
-* Email: [your-email@example.com](mailto:yashitiwari2006@gmail.com)
+* GitHub: [https://github.com/yashitiwari06](https://github.com/yashitiwari06)
+* Email: [yashitiwari2006@gmail.com](mailto:yashitiwari2006@gmail.com)
 
 ---
 
